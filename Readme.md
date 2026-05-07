@@ -19,8 +19,6 @@ The following alloy compositions are included:
 - Nb0.3V0.7
 - Nb0.4V0.6
 
----
-
 ### Project 2
 
 Temperature-dependent simulations were conducted for the following alloy compositions.
@@ -38,8 +36,6 @@ Temperature-dependent simulations were conducted for the following alloy composi
 - Nb0.4V0.6 @ 500 K
 - Nb0.4V0.6 @ 900 K
 - Nb0.4V0.6 @ 1200 K
-
----
 
 ## Folder Contents
 
@@ -75,8 +71,6 @@ Each simulation folder contains the following files:
    Results are provided in either:
    - `.txt`
    - `.xlsx`
-
----
 
 ## Reference
 
